@@ -1,0 +1,1 @@
+Vladyslav Shevchuk D&T2022 OOP TASK Variant 1 repository
